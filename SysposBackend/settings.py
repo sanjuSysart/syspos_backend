@@ -85,7 +85,7 @@ WSGI_APPLICATION = 'SysposBackend.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'Syspos_Backend',
+        'NAME': 'Syspos_Backend1',
         'HOST': 'localhost',
         'PORT': '3307',
         'PASSWORD': '',
